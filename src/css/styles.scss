@@ -1,0 +1,9 @@
+@import './partials/mixins';
+@import './partials/variables';
+
+@import './modules/app';
+@import './modules/studentdetails';
+
+body {
+	margin: 0;
+}
